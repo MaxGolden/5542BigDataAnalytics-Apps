@@ -1,5 +1,0 @@
-<?php
-
-phpinfor();
-
-Testing001
