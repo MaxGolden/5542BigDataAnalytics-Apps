@@ -14,6 +14,8 @@ object SparkWordCount {
 
   def main(args: Array[String]) {
 
+    System.setProperty("hadoop.home.dir", "C:\\bin\\winutils.exe")
+
     val sparkConf = new SparkConf().setAppName("LAB1").setMaster("local[*]")
 
     val sc = new SparkContext(sparkConf)

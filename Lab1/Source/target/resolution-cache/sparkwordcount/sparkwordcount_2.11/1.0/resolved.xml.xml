@@ -4,7 +4,7 @@
 		module="sparkwordcount_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180129142809"
+		publication="20180203113116"
 	>
 		<description>
 		SparkWordCount
